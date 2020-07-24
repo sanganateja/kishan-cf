@@ -170,7 +170,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Migrations\1.0.0-Baseline\001_20200724-1755_11201441.sql" />
+    <None Include="Migrations\1.1.0-Changes\001_20200724-1818_11201441.sql" />
     <None Include="Pre-Deployment\01_Create_Database.sql" />
+    <None Include="Schema-Model\dbo\Tables\kis2.sql" />
     <None Include="Schema-Model\dbo\Tables\kishan_tab.sql" />
   </ItemGroup>
   <ItemGroup>
